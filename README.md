@@ -18,6 +18,15 @@
 
 <hr />
 
+<div align="center">
+
+💡**Rasa Open Source 3.0 is coming up!**<br>
+[2.8](https://github.com/RasaHQ/rasa/milestone/39) will be the last minor in the 2.x series, as we need this _minor freeze_ to be able to introduce architectural changes. You can still contribute new features and improvements which will be released together with 3.0. Read more about [our contributor guidelines](#how-to-contribute).
+
+</div>
+
+<hr />
+
 <img align="right" height="244" src="https://www.rasa.com/assets/img/sara/sara-open-source-2.0.png" alt="An image of Sara, the Rasa mascot bird, holding a flag that reads Open Source with one wing, and a wrench in the other" title="Rasa Open Source">
 
 Rasa is an open source machine learning framework to automate text-and voice-based conversations. With Rasa, you can build contextual assistants on:
